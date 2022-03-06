@@ -1,0 +1,99 @@
+.error
+{
+color:#D2691E;	
+}
+
+.main-container
+{
+	width:90hw;
+	height:auto;
+	border:2px solid black;
+	background-color:#AFEEEE;
+	
+}
+
+.header
+{
+	width:90hw;
+	height:50px;
+	border:1px solid #2F4F4F;
+	margin:8px;  
+	background-color:#2F4F4F;
+}
+
+.logo
+{
+	float:left;
+	
+}
+
+.brand-name
+{
+	margin-top:9px;
+	margin-bottom:9px;
+	font-size:20pt;
+	color:#AFEEEE;
+	float:left;
+	font-family:"Century Gothic";
+}
+
+.mid-container
+{
+	width:90hw;
+	height:70vh;
+	border:1px solid #2F4F4F;
+	margin:8px;
+	background-color:#2F4F4F;
+
+}
+.loginPage
+{
+	padding:20px;
+	margin:0 auto;
+	margin-top:150px;
+	width:25%;
+	background-color:#AFEEEE;
+	border:1px solid black;
+}
+
+.left-panel
+{
+	height:63.3vh;
+	margin:8px;
+	border:1px solid black;
+	float:left;
+	padding:8px;
+	background-color:#AFEEEE;
+}
+
+.right-panel
+{
+	height:65vh;
+	border:1px solid black;
+	margin-top:8px;
+	margin-right:8px;
+	margin-left:115px;
+	background-color:#E0FFFF;
+}
+
+.right-panel-inner
+{
+	height:60vh;
+	border:1px solid black;
+	margin-top:8px;
+	margin-right:200px;
+	margin-left:200px;
+	overflow:scroll;
+}
+
+
+.footer
+{
+	width:90hw; 
+	height:auto; 
+	text-align:center;
+	border:1px solid #2F4F4F;
+	margin:8px;
+	color:white;
+	background-color:#2F4F4F;
+}

@@ -1,0 +1,31 @@
+package com.thinking.machine.hr.beans;
+public class DesignationBean implements java.io.Serializable
+{
+	private int code;
+	private String title;
+	
+	public DesignationBean()
+	{
+		this.code=0;
+		this.title="";
+	}
+	public void setCode(int code)
+	{
+		this.code=code;
+		System.out.println("bean ki setter "+code);
+	}
+	public int getCode()
+	{
+		System.out.println("bean ki getter "+code);
+		return this.code;
+	}
+	
+	public void setTitle(String title)
+	{
+		this.title=title;
+	}
+	public String getTitle()
+	{
+		return this.title;
+	}
+}

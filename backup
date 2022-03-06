@@ -1,0 +1,7 @@
+<tr style='cursor:pointer'>
+<td style='text-align:right' placeHolderId='serialNumber'>${SerialNumber}.</td>
+<td style='text-align:center;background:#2F4F4F;color:#E0FFFF' placeHolderId='employeeId'>${eBean.employeeId}</td>
+<td style='text-align:center' placeHolderId='name'><b style='color:#2F4F4F' >${eBean.name}</b></td>
+<td style='text-align:center;background:#2F4F4F;color:#E0FFFF' placeHolderId='title'>${eBean.title}</td>
+<td style='text-align:center' placeHolderId='editOption'><a href='/styletwo/EditEmployee?employeeId=${eBean.employeeId}'><b style='color:#2F4F4F'>edit</b></a></td>
+<td style='text-align:center;background:#2F4F4F' placeHolderId='deleteOption'><a href='/styletwo/ConfirmDeleteEmployee?employeeId=${eBean.employeeId}'><b style='color:#E0FFFF'>delete</b></a></td>

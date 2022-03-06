@@ -1,0 +1,66 @@
+.EmployeeGrid
+{
+	height:30vh;
+	border:1px solid black;
+	margin-top:8px;
+	margin-right:154px;
+	margin-left:8px;
+	overflow:scroll;
+}
+.TopTableRow
+{
+	text-align:right;
+	padding:3px;
+	
+}
+.SnoInTable
+{
+	width:60px;
+    background:#2F4F4F;
+	color:#E0FFFF;
+	text-align:center;
+}
+.IdInTable
+{
+	background:#2F4F4F;
+	color:#E0FFFF;
+	width:200px;
+	text-align:center;
+}
+.NameInTable
+{
+	background:#2F4F4F;
+	color:#E0FFFF;
+	width:350px;
+	text-align:center;
+}
+.DesignationInTable
+{
+	background:#2F4F4F;
+	color:#E0FFFF;
+	width:250px;
+	text-align:center;
+}
+.EditLinkInTable
+{
+	background:#2F4F4F;
+	color:#E0FFFF;
+	width:150px;
+	text-align:center;
+}
+.DeleteLinkInTable
+{
+	background:#2F4F4F;
+	color:#E0FFFF;
+	width:150px;
+	text-align:center;
+}
+.panelSection
+{
+	height:20vh;
+	
+	margin-top:8px;
+	margin-right:8px;
+	margin-left:8px;
+	padding:8px;
+}
